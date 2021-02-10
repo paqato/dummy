@@ -1,0 +1,14 @@
+{
+    "name": "paqato/dummy",
+    "type": "library",
+    "description": "PAQATO dummy package",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Luka Schäfer",
+            "email": "luka.schaefer@paqato.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"
+}
